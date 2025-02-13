@@ -11,6 +11,34 @@ body {
     justify-content: center;
 
     background-color: hsl(212, 45%, 89%);
+    height: 100vh;
 
 }
 
+.attribution {
+    justify-self: flex-end;
+}
+
+.white-container, img {
+    border-radius: 10px;
+    
+}
+
+.white-container {
+    background-color: white;
+    width: 330px;
+    height: 60vh;
+    padding: 15px;
+    /* add the shadow  */
+    
+
+    
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    
+    
+
+}
